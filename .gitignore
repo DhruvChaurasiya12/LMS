@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# env files
+.env
+.env.local
+.env.production
+
+# uploads
+backend/uploads/
+
+# build files
+dist/
+build/
+.next/
+
+# logs
+*.log
