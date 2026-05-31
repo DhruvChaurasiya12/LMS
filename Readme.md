@@ -193,7 +193,7 @@ MONGO_URI=your_mongodb_connection_string
 
 JWT_SECRET=your_secret_key
 
-### Frontend (.env) (for running locally)
+### Frontend (.env)
 
 NEXT_PUBLIC_API_URL=http://localhost:5000/api
 
