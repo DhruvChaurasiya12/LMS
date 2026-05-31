@@ -310,3 +310,12 @@ Password: 123456
 ## Author
 
 Developed as part of an LMS Assignment Submission using Next.js, TypeScript, Express.js, and MongoDB.
+
+
+## Video Link
+
+https://drive.google.com/file/d/1JPL5l-rLWbKcvnS3tXroU9V0D57m6Qgh/view?usp=sharing
+
+## Important for adding collection
+
+Use UTR number = UTR020 or greater
